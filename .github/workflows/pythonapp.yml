@@ -1,4 +1,4 @@
-name: catChecker
+name: sparkzzzchecker
 
 on: [push, pull_request]
 
